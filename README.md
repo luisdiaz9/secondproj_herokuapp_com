@@ -1,4 +1,4 @@
-# ETL
+# secondproj_herokuapp_com
 ### Summary
 This repository contains a dashboard that shows the flight information scraped from different websites such as AEROMEXICO, AVIANCA and UNITED AIRLINES on multiples days depending on your chosen.<br>
 For payment methods in US dollars such as UNITED AIRLINES, the exchange rate is taken from Banxico's API on a previous day. 
